@@ -1,0 +1,185 @@
+
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Solid State by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Solid State</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="generic.html">Generic</a></li>
+								<li><a href="elements.html">Elements</a></li>
+								<li><a href="#">Log In</a></li>
+								<li><a href="#">Sign Up</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><span class="icon fa-gem"></span></div>
+							<h2>108306083</h2>
+							<p>this is my homework<a href="http://html5up.net">HTML5 UP</a></p>
+						</div>
+					</section>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="https://case.ntu.edu.tw/blog/wp-content/uploads/2016/10/25120463486_aac0f12754_b.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">about me</h2>
+										<p>Name: Kai-Bing Shih<br>
+     										Gender: male<br>
+     										Age: 18<br>
+     										School: NCCU<br>
+     										Apartment: MIS</p>
+									</div>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="data:image/png;base64,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" alt="" /></a>
+									<div class="content">
+										<h2 class="major">my hobby</h2>
+										<p>sleeping</p>
+										
+									</div>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three" class="wrapper spotlight style3">
+								<div class="inner">
+									<a href="#" class="image"><img src="data:image/jpeg;base64,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" alt="" /></a>
+									<div class="content">
+										<h2 class="major">something I want to say</h2>
+										<p>I just want to sleep</p>
+
+									</div>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four" class="wrapper alt style1">
+								<div class="inner">
+									<h2 class="major">Vitae phasellus</h2>
+									<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+									<section class="features">
+										<article>
+											<a href="#" class="image"><img src="https://cdn.dribbble.com/users/467604/screenshots/2190853/screen_shot_2015-08-11_at_4.40.30_pm.png" alt="" /></a>
+											<h3 class="major">SHARPER BRAIN</h3>
+											<p>When you're running low on sleep, you'll probably have trouble holding onto and recalling details. That's because sleep plays a big part in both learning and memory. Without enough sleep, it's tough to focus and take in new information. Your brain also doesn't have enough time to properly store memories so you can pull them up later. Sleep lets your brain catch up so you're ready for what's next.</p>
+
+										</article>
+										<article>
+											<a href="#" class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png" alt="" /></a>
+											<h3 class="major">HEALTHIER HEART</h3>
+											<p>While you sleep, your blood pressure goes down, giving your heart and blood vessels a bit of a rest. The less sleep you get, the longer your blood pressure stays up during a 24-hour cycle. High blood pressure can lead to heart disease, including stroke.</p>
+
+										</article>
+										<article>
+											<a href="#" class="image"><img src="https://cdn.iconscout.com/icon/free/png-512/human-body-458026.png" alt="" /></a>
+											<h3 class="major">STEADIER BLOOD SUGAR</h3>
+											<p>During the deep, slow-wave part of your sleep cycle, the amount of glucose in your blood drops. Not enough time in this deepest stage means you don't get that break to allow a reset -- like leaving the volume turned up. Your body will have a harder time responding to your cells' needs and blood sugar levels. Allow yourself to reach and remain in this deep sleep, and you're less likely to get type 2 diabetes.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="data:image/png;base64,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" alt="" /></a>
+											<h3 class="major">WEIGHT CONTROL</h3>
+											<p>When you're well-rested, you're less hungry. Being sleep-deprived messes with the hormones in your brain -- leptin and ghrelin -- that control appetite. With those out of balance, your resistance to the temptation of unhealthy foods goes way down. And when you're tired, you're less likely to want to get up and move your body. Together, it's a recipe for putting on pounds. The time you spend in bed goes hand-in-hand with the time you spend at the table and at the gym to help you manage your weight.</p>
+										</article>
+									</section>
+									<ul class="actions">
+										<li><a href="#" class="button">Browse All</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">Get in touch</h2>
+							<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="email" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="4"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+							<ul class="contact">
+								<li class="icon solid fa-home">
+									Untitled Inc<br />
+									1234 Somewhere Road Suite #2894<br />
+									Nashville, TN 00000-0000
+								</li>
+								<li class="icon solid fa-phone">(000) 000-0000</li>
+								<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
+								<li class="icon brands fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
+								<li class="icon brands fa-facebook-f"><a href="#">facebook.com/untitled-tld</a></li>
+								<li class="icon brands fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
